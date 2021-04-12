@@ -6,7 +6,7 @@ Hi I'm Zared im a java dev at investec and thanks for the opportunity to do this
 I made the project with repsective endpoints and i do think given more time i would beable to do a finer job but as it comes i managed to do this bit.
 as for TDD im an newly grasping how to do this and we are in a journey to do this as an organisation where i am at Investec, but i did try my best to use it where i could.
  
-I was contraint of time but no excuses this what i have come up with.
+I was contraint of time but no excuses this is what i have come up with.(Thanks for the extention of time really appreciate it.)
 
 i enjoyed th thrill of trying this and I think i'll go on to finish it anyway when i get good time myself.
 
